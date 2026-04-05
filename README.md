@@ -1,4 +1,4 @@
 # FUCK-EM
 FUCK GIT
 AUTHOR-KRATOS
-kk
+git status
